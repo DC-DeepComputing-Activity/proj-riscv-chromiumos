@@ -16,7 +16,7 @@ Chromium OS是Google Chrome OS的开源项目，主要是提供给开发者用�
 
 ### 项目导师
 廖俊波
-- github: https://github.com/DC-DeepComputing
+- github: https://github.com/DC-DeepComputing-Activity
 - email: junbo.liao@deepcomputing.io
 
 ### 难度
